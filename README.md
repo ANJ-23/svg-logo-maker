@@ -16,6 +16,8 @@ Open the folder containing the files via command line window. Type "node index.j
 
 ![SVG Logo Generator Screenshot](assets/screenshot.jpg)
 
+Video showcase: <https://drive.google.com/file/d/1l7HW6735NEWbWDYF0BQgbu6RuN9wL7tX/view?usp=share_link>
+
 ## Credits
 
 Special thanks to the University of Minnesota - Twin Cities for kickstarting my coding journey.
