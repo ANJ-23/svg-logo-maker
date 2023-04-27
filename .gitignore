@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store/
+lib/backup.js
+lib/shapes.test.js
+lib/svg.test.js
